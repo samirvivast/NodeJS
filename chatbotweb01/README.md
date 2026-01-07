@@ -2,7 +2,7 @@
 
 <p>Sistema de chatbot basico creado con NodeJS y Bootstrap.</p>
 
-![Preview](https://github.com/interstella7777/NodeJS/blob/main/chatbotweb01/Maria%20Chatbotweb%20v01.JPG)
+![Preview](https://github.com/interstella7777/NodeJS/blob/main/chatbotweb01/Image1.JPG)
 
 <h2>1 - Instalacion</h2>
 <p>Para su correcto funcionamiento sigue estos pasos:</p>
@@ -24,4 +24,5 @@
 
 <h2>3. Contacto</h2>
 Si tienes alguna duda puedes escribirme al correo: bryansamir@gmail.com
+
 
